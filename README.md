@@ -1,0 +1,1 @@
+# jat-oop-interface-segregation
